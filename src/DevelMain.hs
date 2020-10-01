@@ -1,5 +1,5 @@
 {-# LANGUAGE TemplateHaskell #-}
--- | Devel web server.
+-- | Devel Web Server
 
 module DevelMain where
 
